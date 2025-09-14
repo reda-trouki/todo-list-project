@@ -7,6 +7,7 @@ Un projet Full Stack moderne de gestion de tâches collaboratives développé av
 - [Architecture](#-architecture)
 - [Technologies utilisées](#-technologies-utilisées)
 - [Fonctionnalités](#-fonctionnalités)
+- [Interface de l'application](#-interface-de-lapplication)
 - [Installation](#-installation)
 - [Configuration](#-configuration)
 - [Utilisation](#-utilisation)
@@ -112,7 +113,26 @@ todo-list-project/
 - [x] **Validation côté API** et frontend
 - [x] **Code bien documenté** avec commentaires explicatifs
 
-## 📦 Installation
+## � Interface de l'application
+
+Voici un aperçu des différentes interfaces de l'application :
+
+### 🔐 Page de connexion
+![Page de connexion](images/login.png)
+
+### ✍️ Page d'inscription
+![Page d'inscription](images/signUp.png)
+
+### 📊 Tableau de bord
+![Tableau de bord](images/dashboard.png)
+
+### 📝 Gestion des tâches
+![Gestion des tâches](images/tasks.png)
+
+### 🔔 Notifications en temps réel
+![Notifications](images/notifications.png)
+
+## �📦 Installation
 
 ### Prérequis
 - PHP 8.1+
